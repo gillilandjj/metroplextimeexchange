@@ -25,6 +25,6 @@ When an MTE member offers a trade or skill to another member, the individual pro
 There is no physical trading of Exchange Shares. Rather, an online account keeps track of the Exchange Shares earned and spent between members. The member receiving a service from another member is the entity responsible for recording or paying through using the online system. Exchange Shares can be saved indefinitely or spent on any service that another member of the MTE community has to offer.
 
 
-[membership](about/membership.md)  
+[Membership](about/membership.md)  
 
-[contact](about/contact.md)  
+[Contact](about/contact.md)  
