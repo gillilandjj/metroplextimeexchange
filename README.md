@@ -4,6 +4,10 @@
 
 The Metroplex Time Exchange (MTE) is a network that enables members to build community through the exchange of services.
 
+## What is it?
+
+A service exchange or time bank is a network of individual, organizational and business 'members' that provide services, track and bank their hours and then spend those hours to get their own needs met WITHOUT the use of money. A service exchange is NOT a barter network, since nothing is 'exchanged'. One 'member' provides a friendly, neighborly favor to another and records the time they spent doing so. That banked time can be used at any point in the future to request completion of their own favor.
+
 ## Origins
 
 We believe that people are the wealth of the world as their talents can be shared beneficially with all. We are grounded in the principles of simplicity and abundance and in the the joy of giving and receiving. It is our desire to help in the reclamation of local community prosperity by providing our gifts of time, training and tools in a pay it forward model within the Hour Exchange networks of hOurworld® and the MTE.
