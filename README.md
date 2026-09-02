@@ -13,4 +13,6 @@ We aim to remove all barriers to entry and membership in the time banking moveme
 We don't need another movement. We need to move together.
 
 
-[contact](about/contact.md)
+[membership](about/membership.md)  
+
+[contact](about/contact.md)  
