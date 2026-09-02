@@ -3,6 +3,7 @@
 ## Attend an Orientation
 
 Attending an orientation session virtually or in-person is a requirement before you can be accepted as a member.  
+
 This ensures that all members have a shared understanding of the Time Exchange, and their role and responsibilities.  
 
 Orientations are held the foo foo foo @ foo PM, you can join in-person at  
@@ -14,7 +15,8 @@ or online via [zoom](weneedazoomlink.html)
 
 ## Gain access to the on-line Time Exchange
 
-Once you attend an orientation meeting with a coordinator, you will be granted access to the online system so that you can develop your profile.
+Once you attend an orientation meeting with a coordinator, you will be granted access to the [online system](https://tnt2.hourworld.org/TNT2/login) so that you can develop your profile and begin building community!
+
 
 ## Begin exchanging services
 
