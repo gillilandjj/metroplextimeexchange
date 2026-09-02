@@ -4,3 +4,6 @@ plugins:
 
 title: Metroplex Time Exchange
 description: Part of the hOurworld community
+
+github:
+  is_project_page: false
