@@ -12,6 +12,14 @@ We aim to remove all barriers to entry and membership in the time banking moveme
 
 We don't need another movement. We need to move together.
 
+## In Practice
+
+Exchanges within the MTE can include nearly any skill or trade: computer or office assistance, minor home repair, painting, cooking, running errands, yoga classes, massage, tutoring, yard services, moving help, haircutting, housecleaning, language translating, pet assistance, etc. any service that one would generally pay for in the day to day.
+
+When an MTE member offers a trade or skill to another member, the individual providing the service earns Exchange Shares, the unit of credit exchanged within the MTE. Each time a member performs one hour of work, regardless of the type of skill offered, one Exchange Share is earned by that member. A member will be given one Exchange Share for every hour of service performed for another in the network, whether they are providing acupuncture, gardening, house painting, tutoring, piano teaching, or any other service. Each member's hour of service is seen as being of equal value.
+
+There is no physical trading of Exchange Shares. Rather, an online account keeps track of the Exchange Shares earned and spent between members. The member receiving a service from another member is the entity responsible for recording or paying through using the online system. Exchange Shares can be saved indefinitely or spent on any service that another member of the MTE community has to offer.
+
 
 [membership](about/membership.md)  
 
